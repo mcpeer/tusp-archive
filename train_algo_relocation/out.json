@@ -1,0 +1,247 @@
+[
+      {
+        "Schermnaam": 83070,
+        "Treinstellen": [
+          {
+            "Materieel": "SLT4",
+            "TaakNamen": [
+
+            ],
+            "Id": 2402
+          }
+        ],
+        "Tijd": 82680,
+        "Spoor": "906a"
+      },
+      {
+        "Schermnaam": 83018,
+        "Treinstellen": [
+          {
+            "Materieel": "VIRM4",
+            "TaakNamen": [
+
+            ],
+            "Id": 9405
+          }
+        ],
+        "Tijd": 105480,
+        "Spoor": "906a"
+      },
+      {
+        "Schermnaam": 83086,
+        "Treinstellen": [
+          {
+            "Materieel": "SLT4",
+            "TaakNamen": [
+
+            ],
+            "Id": 2403
+          },
+          {
+            "Materieel": "SLT6",
+            "TaakNamen": [
+
+            ],
+            "Id": 2602
+          }
+        ],
+        "Tijd": 102480,
+        "Spoor": "906a"
+      },
+      {
+        "Schermnaam": 83082,
+        "Treinstellen": [
+          {
+            "Materieel": "VIRM6",
+            "TaakNamen": [
+
+            ],
+            "Id": 8610
+          }
+        ],
+        "Tijd": 80400,
+        "Spoor": "906a"
+      },
+      {
+        "Schermnaam": 83002,
+        "Treinstellen": [
+          {
+            "Materieel": "DDZ6",
+            "TaakNamen": [
+
+            ],
+            "Id": 7608
+          }
+        ],
+        "Tijd": 104460,
+        "Spoor": "906a"
+      },
+      {
+        "Schermnaam": 83010,
+        "Treinstellen": [
+          {
+            "Materieel": "VIRM6",
+            "TaakNamen": [
+
+            ],
+            "Id": 8614
+          },
+          {
+            "Materieel": "VIRM4",
+            "TaakNamen": [
+
+            ],
+            "Id": 9406
+          }
+        ],
+        "Tijd": 107940,
+        "Spoor": "906a"
+      },
+      {
+        "Schermnaam": 83014,
+        "Treinstellen": [
+          {
+            "Materieel": "VIRM6",
+            "TaakNamen": [
+
+            ],
+            "Id": 8615
+          }
+        ],
+        "Tijd": 110880,
+        "Spoor": "906a"
+      },
+      {
+        "Schermnaam": 78821,
+        "Treinstellen": [
+          {
+            "Materieel": "VIRM6",
+            "TaakNamen": [
+
+            ],
+            "Id": 8621
+          }
+        ],
+        "Tijd": 106440,
+        "Spoor": "104a"
+      },
+      {
+        "Schermnaam": 83004,
+        "Treinstellen": [
+          {
+            "Materieel": "VIRM4",
+            "TaakNamen": [
+
+            ],
+            "Id": 9407
+          },
+          {
+            "Materieel": "VIRM4",
+            "TaakNamen": [
+
+            ],
+            "Id": 9411
+          },
+          {
+            "Materieel": "VIRM4",
+            "TaakNamen": [
+
+            ],
+            "Id": 9409
+          }
+        ],
+        "Tijd": 105840,
+        "Spoor": "906a"
+      },
+      {
+        "Schermnaam": 83008,
+        "Treinstellen": [
+          {
+            "Materieel": "SLT4",
+            "TaakNamen": [
+
+            ],
+            "Id": 2405
+          },
+          {
+            "Materieel": "SLT4",
+            "TaakNamen": [
+
+            ],
+            "Id": 2404
+          }
+        ],
+        "Tijd": 107040,
+        "Spoor": "906a"
+      },
+      {
+        "Schermnaam": 78810,
+        "Treinstellen": [
+          {
+            "Materieel": "SLT6",
+            "TaakNamen": [
+
+            ],
+            "Id": 2603
+          }
+        ],
+        "Tijd": 104100,
+        "Spoor": "906a"
+      },
+      {
+        "Schermnaam": 83020,
+        "Treinstellen": [
+          {
+            "Materieel": "VIRM4",
+            "TaakNamen": [
+
+            ],
+            "Id": 9412
+          }
+        ],
+        "Tijd": 114420,
+        "Spoor": "906a"
+      },
+      {
+        "Schermnaam": 83006,
+        "Treinstellen": [
+          {
+            "Materieel": "SLT4",
+            "TaakNamen": [
+
+            ],
+            "Id": 2407
+          },
+          {
+            "Materieel": "SLT4",
+            "TaakNamen": [
+
+            ],
+            "Id": 2406
+          },
+          {
+            "Materieel": "SLT6",
+            "TaakNamen": [
+
+            ],
+            "Id": 2604
+          }
+        ],
+        "Tijd": 106320,
+        "Spoor": "906a"
+      },
+      {
+        "Schermnaam": 54321,
+        "Treinstellen": [
+          {
+            "Materieel": "VIRM4",
+            "TaakNamen": [
+
+            ],
+            "Id": 9413
+          }
+        ],
+        "Tijd": 112620,
+        "Spoor": "906a"
+      }
+    ]

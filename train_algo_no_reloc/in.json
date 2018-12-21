@@ -1,0 +1,256 @@
+[
+      {
+        "Schermnaam": 83055,
+        "Treinstellen": [
+          {
+            "Materieel": "SLT4",
+            "TaakNamen": [
+              "B-Controle",
+              "Binnenkant reiniging"
+            ],
+            "Id": 2402
+          }
+        ],
+        "Tijd": 68160,
+        "Spoor": "906a"
+      },
+      {
+        "Schermnaam": 83059,
+        "Treinstellen": [
+          {
+            "Materieel": "VIRM4",
+            "TaakNamen": [
+              "Binnenkant reiniging"
+            ],
+            "Id": 9405
+          }
+        ],
+        "Tijd": 69120,
+        "Spoor": "906a"
+      },
+      {
+        "Schermnaam": 83049,
+        "Treinstellen": [
+          {
+            "Materieel": "SLT4",
+            "TaakNamen": [
+              "Binnenkant reiniging"
+            ],
+            "Id": 2403
+          },
+          {
+            "Materieel": "SLT6",
+            "TaakNamen": [
+              "B-Controle",
+              "Binnenkant reiniging"
+            ],
+            "Id": 2602
+          }
+        ],
+        "Tijd": 73080,
+        "Spoor": "906a"
+      },
+      {
+        "Schermnaam": 83057,
+        "Treinstellen": [
+          {
+            "Materieel": "VIRM6",
+            "TaakNamen": [
+              "B-Controle",
+              "Binnenkant reiniging"
+            ],
+            "Id": 8610
+          }
+        ],
+        "Tijd": 74040,
+        "Spoor": "906a"
+      },
+      {
+        "Schermnaam": 83069,
+        "Treinstellen": [
+          {
+            "Materieel": "DDZ6",
+            "TaakNamen": [
+              "B-Controle",
+              "Binnenkant reiniging"
+            ],
+            "Id": 7608
+          }
+        ],
+        "Tijd": 78240,
+        "Spoor": "906a"
+      },
+      {
+        "Schermnaam": 83077,
+        "Treinstellen": [
+          {
+            "Materieel": "VIRM6",
+            "TaakNamen": [
+              "B-Controle",
+              "Binnenkant reiniging"
+            ],
+            "Id": 8614
+          },
+          {
+            "Materieel": "VIRM4",
+            "TaakNamen": [
+              "Binnenkant reiniging"
+            ],
+            "Id": 9406
+          }
+        ],
+        "Tijd": 81180,
+        "Spoor": "906a"
+      },
+      {
+        "Schermnaam": 83071,
+        "Treinstellen": [
+          {
+            "Materieel": "VIRM6",
+            "TaakNamen": [
+              "A-Controle",
+              "Binnenkant reiniging"
+            ],
+            "Id": 8615
+          }
+        ],
+        "Tijd": 83520,
+        "Spoor": "906a"
+      },
+      {
+        "Schermnaam": 83067,
+        "Treinstellen": [
+          {
+            "Materieel": "VIRM4",
+            "TaakNamen": [
+              "Binnenkant reiniging"
+            ],
+            "Id": 9407
+          },
+          {
+            "Materieel": "VIRM6",
+            "TaakNamen": [
+              "B-Controle",
+              "Binnenkant reiniging"
+            ],
+            "Id": 8621
+          }
+        ],
+        "Tijd": 84060,
+        "Spoor": "906a"
+      },
+      {
+        "Schermnaam": 83079,
+        "Treinstellen": [
+          {
+            "Materieel": "SLT6",
+            "TaakNamen": [
+              "A-Controle",
+              "Binnenkant reiniging"
+            ],
+            "Id": 2603
+          },
+          {
+            "Materieel": "SLT4",
+            "TaakNamen": [
+              "B-Controle",
+              "Binnenkant reiniging"
+            ],
+            "Id": 2405
+          },
+          {
+            "Materieel": "SLT4",
+            "TaakNamen": [
+              "B-Controle",
+              "Binnenkant reiniging"
+            ],
+            "Id": 2404
+          }
+        ],
+        "Tijd": 84480,
+        "Spoor": "906a"
+      },
+      {
+        "Schermnaam": 83007,
+        "Treinstellen": [
+          {
+            "Materieel": "VIRM4",
+            "TaakNamen": [
+              "Binnenkant reiniging"
+            ],
+            "Id": 9411
+          },
+          {
+            "Materieel": "VIRM4",
+            "TaakNamen": [
+              "B-Controle",
+              "Binnenkant reiniging"
+            ],
+            "Id": 9409
+          }
+        ],
+        "Tijd": 90180,
+        "Spoor": "906a"
+      },
+      {
+        "Schermnaam": 78884,
+        "Treinstellen": [
+          {
+            "Materieel": "VIRM4",
+            "TaakNamen": [
+              "B-Controle",
+              "Binnenkant reiniging"
+            ],
+            "Id": 9412
+          }
+        ],
+        "Tijd": 91260,
+        "Spoor": "906a"
+      },
+      {
+        "Schermnaam": 83003,
+        "Treinstellen": [
+          {
+            "Materieel": "SLT4",
+            "TaakNamen": [
+              "B-Controle",
+              "Binnenkant reiniging"
+            ],
+            "Id": 2407
+          },
+          {
+            "Materieel": "SLT4",
+            "TaakNamen": [
+              "B-Controle",
+              "Binnenkant reiniging"
+            ],
+            "Id": 2406
+          },
+          {
+            "Materieel": "SLT6",
+            "TaakNamen": [
+              "B-Controle",
+              "Binnenkant reiniging"
+            ],
+            "Id": 2604
+          }
+        ],
+        "Tijd": 92100,
+        "Spoor": "906a"
+      },
+      {
+        "Schermnaam": 12345,
+        "Treinstellen": [
+          {
+            "Materieel": "VIRM4",
+            "TaakNamen": [
+              "B-Controle",
+              "Binnenkant reiniging"
+            ],
+            "Id": 9413
+          }
+        ],
+        "Tijd": 94620,
+        "Spoor": "906a"
+      }
+    ]

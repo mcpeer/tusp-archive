@@ -92,4 +92,8 @@ db.sqlite3
 ## Extra
 fiddles/
 train_algo_no_reloc/analysis/data_prep/
+train_algo_no_reloc/analysis/convert_solutions_roel/
 train_algo_relocation/analysis/test_solutions_instances/
+
+.ipynb_checkpoints/
+convert
